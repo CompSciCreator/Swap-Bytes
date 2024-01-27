@@ -4,8 +4,9 @@ Description:
 This program swaps the bytes of a 4-byte integer provided as a command-line argument and prints the result in hexadecimal format. It is written in C programming language.
 
 Files:
+- Byte.c: Original Source code C file.
 - a.out: original gcc compiled file of source code for the byte swapping program.
-- byte_swap.c: Contains the FINAL source code for the byte swapping program. (gcc -o byte_swap Byte.c)
+- byte_swap.c: Contains the FINAL compiled source code for the byte swapping program. (gcc -o byte_swap Byte.c)
 
 Compilation and Execution:
 To compile the program, use a C compiler such as gcc:
