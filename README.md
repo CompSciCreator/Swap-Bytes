@@ -1,4 +1,4 @@
-Title: Byte Swapping Program README
+Byte Swapping Program README
 
 Description:
 This program swaps the bytes of a 4-byte integer provided as a command-line argument and prints the result in hexadecimal format. It is written in C programming language.
