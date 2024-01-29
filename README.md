@@ -29,10 +29,10 @@ Example:   ./byte_swap 12345678
 This command will swap the bytes of the integer 12345678 and print the result.
 
 Author:
-This program was written by [Your Name].
+This program was written by ANDREW PAOLELLA
 
 Date:
-[Date of creation or last update].
+1/26/24
 
 
 
